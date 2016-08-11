@@ -1,3 +1,3 @@
 # hellogithub
-the first I use github
+the first time I use github
 i`m making some changes.
