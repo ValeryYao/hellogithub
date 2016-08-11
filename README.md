@@ -1,2 +1,2 @@
 # hellogithub
-the first I use github
+the first time I use github
